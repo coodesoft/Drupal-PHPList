@@ -1,0 +1,11 @@
+name = "PHPlist"
+description = "A phpList integration interface"
+core = 7.x
+package = "PHPlist"
+
+; Information added by Drupal.org packaging script on 2014-10-09
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "phplist"
+datestamp = "1412825332"
+
